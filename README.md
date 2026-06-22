@@ -30,13 +30,12 @@ properties like GC content and nucleotide composition.
 - save results to .txt file
 
 ## How to run
--run:
 python main_code.py
 
 ## Example output
 ![DNA Analysis Output](assets/dna_output.png)
 
 ## Future improvements 
--FASTA file support
--Data visualization
--GUI version
+- FASTA file support
+- Data visualization
+- GUI version
