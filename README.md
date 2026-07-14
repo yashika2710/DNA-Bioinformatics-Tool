@@ -34,7 +34,10 @@ properties like GC content and nucleotide composition.
 python main_code.py
 
 ## Example output
-![DNA Analysis Output](assets/output.png)
+![DNA Analysis Output](assets/output1.png)
+![DNA Analysis Output](assets/output2.png)
+![DNA Analysis Output](assets/output3.png)
+
 
 ## Future improvements 
 - FASTA file support
