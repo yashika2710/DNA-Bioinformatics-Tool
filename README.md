@@ -38,4 +38,3 @@ python main_code.py
 
 ## Future improvements 
 - FASTA file support
-- GUI version
